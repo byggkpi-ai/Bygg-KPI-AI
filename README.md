@@ -1,5 +1,5 @@
-<img src="Documents/ByggKPI Logo.png"
-     alt="ByggKPI logo"
+<img src="Documents/ByggKPI Logo.jpg"
+     alt="ByggKPI Logo"
      style="width: 200px" />
 
 ### **ByggKPI main repository**
