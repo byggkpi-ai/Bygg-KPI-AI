@@ -1,4 +1,4 @@
-<img src="Documentation/ByggKPI_logo.png"
+<img src="Documents/ByggKPI_logo.png"
      alt="ByggKPI logo"
      style="width: 200px" />
 
