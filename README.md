@@ -2,4 +2,4 @@
 
 # **ByggKPI main repository** 
 
-This repository is the start of a project. ByggKPI is focused on developing solutions for the norwegian's construction market. Public projects that are being used here or have connection with this solutions can be referred or imported to this repository too.
+ByggKPI is focused on developing solutions for the norwegian's construction market. Public projects that are being used here or have connection with this solutions can be referred or imported to this repository too.
